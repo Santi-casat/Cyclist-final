@@ -1,3 +1,4 @@
+#Cargar los datos por mes 
 X202306_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/202306-divvy-tripdata/202306-divvy-tripdata.csv")
 X202307_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/202307-divvy-tripdata/202307-divvy-tripdata.csv")
 X202308_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/202308-divvy-tripdata/202308-divvy-tripdata.csv")
@@ -11,6 +12,7 @@ X202403_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proy
 X202404_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/202404-divvy-tripdata/202404-divvy-tripdata.csv")
 X202405_divvy_tripdata <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/202405-divvy-tripdata/202405-divvy-tripdata.csv")
 
+#Cargar los datos por cuatrimestre 
 Divvy_Trips_2019_Q1 <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/Divvy_Trips_2019_Q1/Divvy_Trips_2019_Q1.csv")
 Divvy_Trips_2019_Q2 <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/Divvy_Trips_2019_Q2/Divvy_Trips_2019_Q2.csv")
 Divvy_Trips_2019_Q3 <- read.csv("C:/Users/LENOVO/Desktop/Coso/Curso data/Proyecto final Cyclist/Divvy_Trips_2019_Q3/Divvy_Trips_2019_Q3.csv")
